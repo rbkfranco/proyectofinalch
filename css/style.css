@@ -276,7 +276,7 @@ ol{
     flex-wrap: wrap;
     grid-template-columns: 1fr;
     justify-content: space-evenly;
-    width: 450px;
+    width: 550px;
     height: 450px;
 }
 .contenedor{display: flex;
@@ -306,8 +306,8 @@ flex-direction: row;}
   }
   
   .col-md-6 p {
-    height: 440px;
-    width: 440px;
+    height: 500px;
+    width: 500px;
     margin: 10px ;
   }
   
