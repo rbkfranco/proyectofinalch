@@ -1,0 +1,26 @@
+{
+  "name": "preentrega2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbkfranco/proyectofinalch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbkfranco/proyectofinalch/issues"
+  },
+  "homepage": "https://github.com/rbkfranco/proyectofinalch#readme",
+  "dependencies": {
+    "sass": "^1.59.3"
+  },
+  "devDependencies": {
+    "node-sass": "^8.0.0",
+    "nodemon": "^2.0.21"
+  }
+}
